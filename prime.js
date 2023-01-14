@@ -5,6 +5,6 @@ for(let i =0;i<=num;i++){
         factor++;
     }
 }
-(factor == 2) ? console.log(num , "is prime") : 
+(factor == 2) ? console.log(num , "is prime") : console.log(num, "not prime")
   
-// fix else part 
+// fixed the else part by member 2
